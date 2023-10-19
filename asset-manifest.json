@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Krypto-Kraze/static/css/main.1a9a7a29.css",
-    "main.js": "/Krypto-Kraze/static/js/main.6f75d9b8.js",
+    "main.js": "/Krypto-Kraze/static/js/main.2aecf843.js",
     "index.html": "/Krypto-Kraze/index.html",
     "main.1a9a7a29.css.map": "/Krypto-Kraze/static/css/main.1a9a7a29.css.map",
-    "main.6f75d9b8.js.map": "/Krypto-Kraze/static/js/main.6f75d9b8.js.map"
+    "main.2aecf843.js.map": "/Krypto-Kraze/static/js/main.2aecf843.js.map"
   },
   "entrypoints": [
     "static/css/main.1a9a7a29.css",
-    "static/js/main.6f75d9b8.js"
+    "static/js/main.2aecf843.js"
   ]
 }
