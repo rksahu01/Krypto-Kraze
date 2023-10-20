@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Krypto-Kraze/static/css/main.1a9a7a29.css",
+    "main.js": "/Krypto-Kraze/static/js/main.2aecf843.js",
+    "index.html": "/Krypto-Kraze/index.html",
+    "main.1a9a7a29.css.map": "/Krypto-Kraze/static/css/main.1a9a7a29.css.map",
+    "main.2aecf843.js.map": "/Krypto-Kraze/static/js/main.2aecf843.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a9a7a29.css",
+    "static/js/main.2aecf843.js"
+  ]
+}
